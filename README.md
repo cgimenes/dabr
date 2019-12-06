@@ -19,3 +19,4 @@ Custom dashboards
 ## Links
 
 https://phosphorjs.github.io/
+https://tailwindcss.com/
